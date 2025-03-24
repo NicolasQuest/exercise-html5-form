@@ -24,7 +24,7 @@ https://github.com/4GeeksAcademy/html-hello
 
 ## 📝 Instrucciones
 
-1. Por favor, usa tus habilidades HTML5/CSS y Bootstrap para replicar [este formulario exacto](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true).
+1. Por favor, usa tus habilidades HTML5/CSS3 y Bootstrap para replicar [este formulario exacto](https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true).
 2. Se recomienda usar el framework de Bootstrap si ya lo conoces. Si no lo haces, practica tus habilidades de diseño usando flexbox.<p align="center"><img src="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true" height="300" /></p><p align="center"><a href="https://github.com/breatheco-de/html5-form/blob/master/preview.png?raw=true">Clic para abrir la imagen en una nueva ventana</a></p>
 3. Debes asegurarte de que todas las entradas se utilicen correctamente: entradas de tipo fecha, email, número, texto, etc.
 4. También debes asegurarte de prevenir y validar el formulario de todas las formas en que HTML5 te permite (campos obligatorios, formatos, etc.).
